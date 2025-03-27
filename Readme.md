@@ -27,7 +27,7 @@ A modern, feature-rich timer management application built with React, TypeScript
 
 1. Clone the repository:
 bash
-git clone https://github.com/yourusername/Timer.git
+git clone [https://github.com//Timer.git](https://github.com/Dileepar26/Timer.git)
 cd Timer
 
 
